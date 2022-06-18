@@ -1,0 +1,37 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "fyxme-dev-20190903013613-authRole",
+      "UnauthRoleArn": "arn:aws:iam::917297440066:role/fyxme-dev-20190903013613-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::917297440066:role/fyxme-dev-20190903013613-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "fyxme-dev-20190903013613-deployment",
+      "UnauthRoleName": "fyxme-dev-20190903013613-unauthRole",
+      "StackName": "fyxme-dev-20190903013613",
+      "StackId": "arn:aws:cloudformation:us-west-2:917297440066:stack/fyxme-dev-20190903013613/e3b6f180-ce25-11e9-b71d-0643fbbb2136",
+      "AmplifyAppId": "d36kvmm969oufl"
+    }
+  },
+  "function": {
+    "FyxmeAutoData": {
+      "service": "Lambda",
+      "providerPlugin": "awscloudformation",
+      "build": true,
+      "output": {
+        "Region": "us-west-2",
+        "Arn": "arn:aws:lambda:us-west-2:917297440066:function:FyxmeAutoData-dev",
+        "Name": "FyxmeAutoData-dev",
+        "LambdaExecutionRole": "fyxmeLambdaRole2d618dac-dev"
+      },
+      "lastPushTimeStamp": "2021-05-04T03:44:17.911Z",
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/fyxme-dev-20190903013613-deployment/amplify-cfn-templates/function/FyxmeAutoData-cloudformation-template.json",
+        "logicalId": "functionFyxmeAutoData"
+      },
+      "lastBuildTimeStamp": "2021-05-04T03:43:46.941Z",
+      "lastPackageTimeStamp": "2021-05-04T03:43:46.980Z",
+      "distZipFilename": "FyxmeAutoData-6f7573696c6173706e47-build.zip",
+      "lastPushDirHash": "zSak7pzAmgPwaiO8wT5bVh8GQng="
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "fyxme-dev-20190903013613-authRole",
+      "UnauthRoleArn": "arn:aws:iam::917297440066:role/fyxme-dev-20190903013613-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::917297440066:role/fyxme-dev-20190903013613-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "fyxme-dev-20190903013613-deployment",
+      "UnauthRoleName": "fyxme-dev-20190903013613-unauthRole",
+      "StackName": "fyxme-dev-20190903013613",
+      "StackId": "arn:aws:cloudformation:us-west-2:917297440066:stack/fyxme-dev-20190903013613/e3b6f180-ce25-11e9-b71d-0643fbbb2136",
+      "AmplifyAppId": "d36kvmm969oufl"
+    }
+  }
+}

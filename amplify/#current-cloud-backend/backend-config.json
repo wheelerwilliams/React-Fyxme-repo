@@ -1,0 +1,9 @@
+{
+	"function": {
+		"FyxmeAutoData": {
+			"service": "Lambda",
+			"providerPlugin": "awscloudformation",
+			"build": true
+		}
+	}
+}

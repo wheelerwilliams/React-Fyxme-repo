@@ -1,0 +1,44 @@
+{
+  "name": "fyxme-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aws-amplify/api": "^4.0.34",
+    "@aws-amplify/pubsub": "^4.2.10",
+    "aws-api-gateway-client": "0.2.17",
+    "aws-sdk": "2.521.0",
+    "axios": "0.19.0",
+    "react": "16.10.1",
+    "react-dom": "16.10.1",
+    "react-ga": "^2.7.0",
+    "react-gtm-module": "^2.0.8",
+    "react-helmet": "^6.1.0",
+    "react-input-mask": "3.0.0-alpha.0",
+    "react-modal": "3.10.1",
+    "react-notify-toast": "^0.5.1",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.2.0",
+    "uuid": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
