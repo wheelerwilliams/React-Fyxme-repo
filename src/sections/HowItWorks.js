@@ -24,27 +24,19 @@ const HowItWorks = () => {
         <div className="row justify-content-center">
           <ImageCard
             image="/images/HITW-01-min.png"
-            text="Take a picture of the damage and text or email to FYXME for a free estimate."
-          />
-          <ImageCard
-            image="/images/HITW-02-min.png"
-            text="Schedule an appointment and FYXME comes to your home or office."
-          />
-          <ImageCard
-            image="/images/HITW-03-min.png"
-            text="Our technicians review and explain the same day repair."
+            text="Upload pictures of your vehicle's damage to get a free body repair estimate."
           />
           <ImageCard
             image="/images/HITW-04-min.png"
-            text="We use environmentally safe products and leave no mess."
+            text="Schedule a convenient time for our mobile bodyshop to come to you."
           />
           <ImageCard
             image="/images/HITW-05-min.png"
-            text="We match the paint on site and offer a lifetime warranty."
+            text="Certified technician uses state-of-the-art tools and environmentally-safe products to repair your vehicle."
           />
           <ImageCard
             image="/images/HITW-06-min.png"
-            text="Same day service with most repairs between 3-6 hours."
+            text="Most body repairs are completed within 3-6 hours on the same day."
           />
         </div>
       </div>

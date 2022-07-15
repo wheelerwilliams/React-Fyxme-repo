@@ -9,7 +9,7 @@ const ClientSay = () => {
       <div className="container">
         <div className="row">
           <div className=" col-12 mb-50 text-center">
-            <h4>What our clients say</h4>
+            <h4>Fyxme Reviews</h4>
           </div>
         </div>
       </div>

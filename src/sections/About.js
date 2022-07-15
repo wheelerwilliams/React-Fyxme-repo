@@ -16,16 +16,17 @@ const About = () => {
           <div className="col-md-6">
             <div className="item-content content-left-padding">
               <h3 className="special-heading">
-                Licensed and insured in Southern California
+              Licensed, Insured & Certified in Southern California
               </h3>
               <p>
-                Fyxme services customers in Los Angeles, Irvine, Beverly Hills,
-                Pasadena, San Marino, Brentwood, Manhattan Beach, Newport Beach,
-                Laguna Beach, Santa Clarita, Costa Mesa, Hawthorne, Santa Ana,
-                Lake Forest, Anaheim, Yorba Linda, Orange, Fountain Valley,
-                Brea, Buena Park, Fullerton, Huntington Beach, Mission Viejo,
-                San Clemente, Tustin, Villa Park, Coto de Casa, Laguna Hills,
-                Dana Point, and other Los Angeles and Orange County cities.
+              Fyxme is a 100% locally-owned and operated mobile auto body shop servicing
+              Los Angeles County and Orange County. We take pride in offering the highest
+              quality minor collision repairs, including paint and dent repair and bumper &
+              fender repair.
+              </p>
+              <p> 
+              By partnering with industry-best suppliers we are able to ensure that the tools and
+              products we use achieve the same results you will find at dealerships.
               </p>
               <div className="row licence-images">
                 <div className="col-md-6">

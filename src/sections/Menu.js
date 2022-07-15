@@ -58,7 +58,7 @@ const Menu = ({
                           routesUrl.service || staticUrl || ""
                         }#service`}
                       >
-                        Why Fyxme
+                        Mobile Services
                       </a>
                     </li>
                     <li>
@@ -68,7 +68,7 @@ const Menu = ({
                           routesUrl.testimonials || staticUrl || ""
                         }#section_testimonials`}
                       >
-                        What our clients say
+                        Fyxme Reviews
                       </a>
                     </li>
                     <li>
